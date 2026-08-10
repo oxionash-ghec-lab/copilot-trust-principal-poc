@@ -1,7 +1,7 @@
 {
   "name": "poc",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "scripts": {
-    "test": "sh -c 'echo OUTSIDER_PR_CODE_RAN >> /tmp/copilot-pr.txt'"
+    "test": "sh -c 'echo OUTSIDER_SYNCED_CODE_RAN >> /tmp/copilot-pr.txt'"
   }
 }
