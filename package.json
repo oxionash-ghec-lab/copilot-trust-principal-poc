@@ -1,7 +1,7 @@
 {
   "name": "poc",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "scripts": {
-    "test": "sh -c 'echo MAINTAINER_BENIGN >> /tmp/copilot-pr.txt'"
+    "test": "sh -c 'echo OUTSIDER_PR_CODE_RAN >> /tmp/copilot-pr.txt'"
   }
 }
